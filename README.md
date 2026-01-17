@@ -2,7 +2,6 @@
 
 A premium, high-performance PDF note-taking application built with Vanilla JavaScript and PDF.js.
 
-![Mockup](https://raw.githubusercontent.com/YeMinMyat16/PDF-Note-Taker/main/mockup.png)
 
 ## 🚀 Features
 - **Professional PDF Rendering**: Powered by PDF.js for crisp and fast document viewing.
@@ -25,5 +24,3 @@ A premium, high-performance PDF note-taking application built with Vanilla JavaS
 ## 🌐 Live Demo
 [View Live Demo](https://yeminmyat16.github.io/PDF-Note-Taker/)
 
----
-Created with ❤️ by Antigravity
